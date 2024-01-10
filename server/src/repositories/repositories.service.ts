@@ -10,13 +10,7 @@ export class RepositoriesService {
 
   constructor(
   ) {
-    const octokit = new Octokit({
-      auth: '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',
-      headers: {
-        accept: 'application/vnd.github.diff',
-      }
-    })
-    this.octokit = octokit;
+    this.octokit = new Octokit();
   }
   async getCommitById({ owner, repository: repo, oid: ref }: GetCommitByIdDto) {
     try {
