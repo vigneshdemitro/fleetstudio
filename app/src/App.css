@@ -1,0 +1,58 @@
+text-style-header {
+  font-family: SF Pro Display;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  text-align: left;
+
+  font-family: SF Pro Display;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  text-align: left;
+  background: linear-gradient(0deg, #2B3750, #2B3750),
+    linear-gradient(0deg, #39496A, #39496A);
+
+}
+
+text-style-body {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.05em;
+  text-align: left;
+
+}
+
+text-style-monospace {
+  font-family: 'Courier New', Courier, monospace, ;
+  font-size: 12px;
+}
+
+text-style-link-monospace {
+  font-family: 'Courier New', Courier, monospace, ;
+  font-size: 12px;
+}
+
+text-color-body {
+  color: #39496A;
+}
+
+text-color-muted {
+  color: #6D727C;
+}
+
+text-color-link {
+  color: #1C7CD6
+}
+
+code-primary {
+  color: #657B83;
+}
+
+code-secondary {
+  color: #6078A9;
+}
