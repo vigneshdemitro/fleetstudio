@@ -5,6 +5,8 @@
 - UI - **React.js**
 - Server - **Nest.js**
 
+# Steps to run the app in local environment
+
 1. Clone the repository
 2. Navigate to app folder README.md for instructions of how to start the UI
 3. Navigate to server folder README.md for instructions of how to start the server
