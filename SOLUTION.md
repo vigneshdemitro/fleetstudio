@@ -2,8 +2,8 @@
 - This is a simple app which gives the commit diff details for the given repository with owner details and commit id
 
 # Tech Stack of app
-**React.js** UI
-**Nest.js** Server
+- **React.js** UI
+- **Nest.js** Server
 
 1. Clone the repository
 2. Navigate to app folder README.md for instructions of how to start the UI
